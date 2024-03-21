@@ -34,7 +34,7 @@ p, h1, h2, h3, a, span{
         padding: 1.25rem 1rem;
         /* prevents padding and border from affecting height and width */
         box-sizing: border-box;
-        background-color: white;
+        background-color: black;
         box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
         position: fixed;
         z-index: 10000;
@@ -616,6 +616,13 @@ p, h1, h2, h3, a, span{
     scale: 2.75;
 }
                                 
+}
+
+
+@media only screen and (min-width: 37.5rem) {
+#cs-navigation{
+background: white;
+}
 }
                                 
 
