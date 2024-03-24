@@ -2186,4 +2186,13 @@ body {
     }
 }
 
-                                
+
+
+
+
+
+@media only screen and (max-width: 48rem) {
+#steps-1674 .cs-item {
+    max-width: 12em;
+}
+}
