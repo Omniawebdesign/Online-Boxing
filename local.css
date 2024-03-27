@@ -2084,6 +2084,7 @@ body {
         z-index: 1;
         /* prevents padding from adding to the width */
         box-sizing: border-box;
+        border-radius: 50px;
     }
     #cta-1072 .cs-button-solid:before {
         content: "";
@@ -2096,6 +2097,7 @@ body {
         left: 0;
         z-index: -1;
         transition: width 0.3s;
+        border-radius: 50px;
     }
     #cta-1072 .cs-button-solid:hover:before {
         width: 100%;
@@ -2118,6 +2120,7 @@ body {
         /* prevents padding from adding to the width */
         box-sizing: border-box;
         transition: color 0.3s;
+        border-radius: 50px;
     }
     #cta-1072 .cs-button-transparent:before {
         content: "";
