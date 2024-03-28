@@ -279,4 +279,22 @@
       display: none !important;
   }
 }
+
+
+
+
+
+.cs-topper2 {
+  font-size: clamp(0.8125rem, 1.5vw, 1rem);
+  line-height: 1.2em;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+  color: var(--secondary);
+  display: inline-block;
+  position: relative;
+  animation: blink 1.25s linear infinite;
+}
                                                 
