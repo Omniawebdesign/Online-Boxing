@@ -146,6 +146,7 @@
       left: 0;
       z-index: -1;
       transition: width .3s;
+        border-radius: 50px;
     }
     #hero-997 .cs-button-solid:hover {
       color: #1a1a1a;
